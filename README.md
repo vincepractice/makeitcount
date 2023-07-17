@@ -1,1 +1,1 @@
-# makeitcount
+# makeitcount for the contributor
